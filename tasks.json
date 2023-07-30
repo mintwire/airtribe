@@ -1,0 +1,21 @@
+ [
+    {
+      "id": 1,
+      "title": "laundry",
+      "description": "Give laundry to laundroMat",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "title": "pickup",
+      "description": "Pickup Grandma from the airport",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "title": "dool",
+      "description": "Arrive for the days of our lives parade at 6AM sharp",
+      "isCompleted": false
+    }
+  ]
+
